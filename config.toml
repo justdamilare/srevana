@@ -1,0 +1,4 @@
+baseURL = "http://srevana.com"
+languageCode = "en-us"
+title = "SREvana"
+theme = "ananke"
